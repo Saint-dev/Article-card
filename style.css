@@ -79,11 +79,10 @@ body {
     top: 120%;
     color: #c4c8cd;
 }
-@media screen and (width: 500px) {
-	@media screen and (width: 600px) {
-    .card {
+@media screen and (max-width: 500px) {
+      .card {
         width: 350px;
-        height: 450px;
+        height: 480px;
         background-color: #fff;
         border-radius: 10px;
         box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
