@@ -79,7 +79,13 @@ body {
     top: 120%;
     color: #c4c8cd;
 }
-@media screen and (max-width: 500px) {
+
+
+
+@media screen and (max-width: 600px) {
+         @media screen and (max-width: 600px){
+
+
       .card {
         width: 350px;
         height: 480px;
@@ -110,7 +116,7 @@ body {
 .text h3 {
     color: #495669;
     margin-bottom: 6px;
-}
+} 
 
 .text img {
     position: absolute;
